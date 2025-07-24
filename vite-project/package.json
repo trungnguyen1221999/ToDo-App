@@ -5,6 +5,7 @@
   "type": "module",
   "homepage": "https://trungnguyen1221999.github.io/ToDo-App/",
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
